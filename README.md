@@ -1,8 +1,11 @@
 👋 Olá, seja bem-vindo ao meu perfil!
 
 💻 O que estou aprendendo:
+<br>
 🌐 HTML - Criando a estrutura sólida e semântica para páginas web.
+<br>
 🎨 CSS - Estilizando com criatividade e tornando o design responsivo.
+<br>
 🚀 JavaScript - Dando vida aos meus projetos e tornando-os dinâmicos.
 
 🌱 Próximos passos:

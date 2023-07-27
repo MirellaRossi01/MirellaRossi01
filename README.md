@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-<!--
-**MirellaRossi01/MirellaRossi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Sobre mim:
+Sou uma entusiasta da programação, atualmente embarcando na empolgante jornada de aprendizado em desenvolvimento web. Meu foco está em aprofundar meus conhecimentos em HTML, CSS e JavaScript para construir projetos incríveis e interativos na web.
 
-Here are some ideas to get you started:
+💻 O que estou aprendendo:
+🌐 HTML - Criando a estrutura sólida e semântica para páginas web.
+🎨 CSS - Estilizando com criatividade e tornando o design responsivo.
+🚀 JavaScript - Dando vida aos meus projetos e tornando-os dinâmicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Objetivo:
+Meu objetivo é me tornar uma desenvolvedora web habilidosa e colaborar em projetos empolgantes que possam impactar positivamente a vida das pessoas.
+
+🌱 Próximos passos:
+Após dominar as bases de HTML, CSS e JavaScript, estou ansioso(a) para expandir meu conhecimento em frameworks populares e tecnologias modernas do ecossistema web.
+
+
